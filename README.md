@@ -28,7 +28,7 @@ My name is Fahmi Alfareza and I'm a software developer/Backend engineer. I'm fro
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmialfareza&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/fahmialfareza/fahmialfareza">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahmialfareza&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Reza's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmialfareza&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&exclude_repo=things-bin-aws&hide=html,css,less,scss,jupyter%20notebook,blade" alt="Reza's GitHub Stats" />
 </a>
 
 [instagram]: https://instagram.com/fahmi_alfareza
