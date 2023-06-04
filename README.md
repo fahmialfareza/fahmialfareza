@@ -1,6 +1,6 @@
 # Hello, folks! <img src="wave.gif" width="30px">
 
-My name is Fahmi Alfareza. I'm from Indonesia, living in Magelang, currently working at Tokopedia as Software Engineer (Backend) and Binar Academy as Backend Mentor at Glints Academy Bootcamp, Full-stack Mentor at Kampus Merdeka 2, and Front-end Mentor at Kampus Merdeka 3 & 4.
+My name is Fahmi Alfareza. I'm from Indonesia, living in Yogyakarta, currently working at Sekolah.mu as Senior Software Engineer (Backend) and Binar Academy as Backend Mentor at Glints Academy Bootcamp, Full-stack Mentor at Kampus Merdeka 2, and Front-end Mentor at Kampus Merdeka 3 & 4. And I was an Software Engineer at Tokopedia, one of the biggest tech company in Southeast Asia.
 
 ## 📝 Get In Touch
 
