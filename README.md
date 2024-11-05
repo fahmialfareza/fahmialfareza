@@ -28,7 +28,7 @@ My name is Fahmi Alfareza. I'm from Indonesia, living in Yogyakarta, currently w
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/fahmialfareza/fahmialfareza">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmialfareza&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&exclude_repo=things-bin-aws&hide=hcl,html,css,less,scss,jupyter%20notebook,blade,pug" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmialfareza&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&exclude_repo=things-bin-aws,kuyrek-pkl&hide=hcl,html,css,less,scss,jupyter%20notebook,blade,pug" />
 </a>
 <a href="https://github.com/fahmialfareza/fahmialfareza">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahmialfareza&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Reza's GitHub Stats" />
