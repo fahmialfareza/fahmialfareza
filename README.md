@@ -1,10 +1,9 @@
 # Hello, folks! <img src="wave.gif" width="30px">
 
-My name is Fahmi Alfareza. I'm from Indonesia, living in Yogyakarta, currently working at Bitlabs Academy as Tech Lead and Binar Academy as Backend Mentor at Glints Academy Bootcamp, Full-stack Mentor at Kampus Merdeka 2 & 6, and Front-end Mentor at Kampus Merdeka 3 & 4 & 5. I was an Senior Software Engineer at Sekolah.mu. And I was an Software Engineer at Tokopedia, one of the biggest tech company in Southeast Asia.
+My name is Fahmi Alfareza. I'm from Indonesia, living in Yogyakarta, currently working at [Bitlabs Academy](https://bitlabs.id) as Tech Lead and [Binar Academy](https://binar.co.id) as Backend Mentor at Glints Academy Bootcamp, Full-stack Mentor at Kampus Merdeka 2 & 6 & 7, and Front-end Mentor at Kampus Merdeka 3 & 4 & 5. I was an Senior Software Engineer at [Sekolah.mu](https://sekolah.mu). And I was an Software Engineer at [Tokopedia](https://tokopedia.com), one of the biggest tech company in Southeast Asia.
 
 ## 📝 Get In Touch
 
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![iCloud](https://img.shields.io/badge/icloud-%23007aff.svg?&style=for-the-badge&logo=icloud&logoColor=white)][icloud]
 
