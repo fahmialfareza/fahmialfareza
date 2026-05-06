@@ -1,30 +1,281 @@
-# Hello, folks! <img src="wave.gif" width="30px">
+<div align="center">
 
-My name is Fahmi Alfareza. I'm from Indonesia, living in Yogyakarta, currently working at [Bookipi](https://bookipi.com). I was working at [Bitlabs Academy](https://bitlabs.id) as Tech Lead and [Binar Academy](https://binar.co.id) as Backend Mentor at Glints Academy Bootcamp, Full-stack Mentor at Kampus Merdeka 2 & 6 & 7, and Front-end Mentor at Kampus Merdeka 3 & 4 & 5. I was an Senior Software Engineer at [Sekolah.mu](https://sekolah.mu). And I was an Software Engineer at [Tokopedia](https://tokopedia.com), one of the biggest tech company in Southeast Asia.
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2E97F7,100:70a5fd&height=220&section=header&text=Fahmi%20Alfareza&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Tech%20Lead%20%E2%80%A2%20Mentor&descAlignY=60&descSize=17)
 
-## 📝 Get In Touch
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=70a5fd&center=true&vCenter=true&width=680&lines=Building+scalable+systems+%F0%9F%9A%80;Shipping+products+that+matter+%F0%9F%93%A6;Mentoring+the+next+gen+of+devs+%F0%9F%8E%93;Open+to+interesting+collaborations+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![iCloud](https://img.shields.io/badge/icloud-%233693F3.svg?&style=for-the-badge&logo=icloud&logoColor=white)][icloud]
+<br/>
 
-## 🔧 Technologies & Tools
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fahmi-alfareza)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/fahmialfareza)
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/fahmialfareza)
+[![Email](https://img.shields.io/badge/Email-3693F3?style=flat-square&logo=icloud&logoColor=white)](mailto:signer_aero0l@icloud.com)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=fahmialfareza&color=70a5fd&style=flat-square&label=profile+views)
 
-| Services                | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Operating Systems       | ![](https://img.shields.io/badge/macOS%20-%23000000.svg?&style=for-the-badge&logo=macos&logoColor=white) ![](https://img.shields.io/badge/linux%20-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| Editors                 | ![](https://img.shields.io/badge/vscode%20-%230078d7.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white) ![](https://img.shields.io/badge/intellij-%23000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white) ![](https://img.shields.io/badge/jupyter%20-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white) ![](https://img.shields.io/badge/xcode%20-%23147EFB.svg?&style=for-the-badge&logo=xcode&logoColor=white) ![](https://img.shields.io/badge/android%20studio%20-%233DDC84.svg?&style=for-the-badge&logo=android-studio&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Clouds                  | ![](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=white) ![](https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white) ![](https://img.shields.io/badge/azure%20-%230072e6.svg?&style=for-the-badge&logo=microsoft-azure&logoColor=white) ![](https://img.shields.io/badge/alicloud%20-%23FF6A00.svg?&style=for-the-badge&logo=alibabacloud&logoColor=white) ![](https://img.shields.io/badge/Digital%20Ocean%20-%230080FF.svg?&style=for-the-badge&logo=digitalocean&logoColor=white) ![](https://img.shields.io/badge/cloudflare%20-%23F38020.svg?&style=for-the-badge&logo=cloudflare&logoColor=white) ![](https://img.shields.io/badge/Temporal%20-%23000000.svg?&style=for-the-badge&logo=temporal&logoColor=white) ![](https://img.shields.io/badge/Railway%20-%230B0D0E.svg?&style=for-the-badge&logo=railway&logoColor=white) ![](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white) ![](https://img.shields.io/badge/Vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white) ![](https://img.shields.io/badge/netlify%20-%23FF2D20.svg?&style=for-the-badge&logo=netlify&logoColor=white) |
-| Languages               | ![](https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/typescript%20-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white) ![](https://img.shields.io/badge/java-%23000000.svg?&style=for-the-badge&logo=java&logoColor=white) ![](https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white) ![](https://img.shields.io/badge/solidity%20-%23363636.svg?&style=for-the-badge&logo=solidity&logoColor=white) ![](https://img.shields.io/badge/swift%20-%23F05138.svg?&style=for-the-badge&logo=swift&logoColor=white) ![](https://img.shields.io/badge/dart%20-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white) ![](https://img.shields.io/badge/shell_script%20-%234EAA25.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)                                                                                                                                                                                      |
-| Frameworks (Back-end)   | ![](https://img.shields.io/badge/express%20-%23000000.svg?&style=for-the-badge&logo=express) ![](https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white) ![](https://img.shields.io/badge/strapi%20-%234945FF.svg?&style=for-the-badge&logo=strapi&logoColor=white) ![](https://img.shields.io/badge/spring%20boot%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white) ![](https://img.shields.io/badge/gin%20-%23008ECF.svg?&style=for-the-badge&logo=gin&logoColor=white) ![](https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white) ![](https://img.shields.io/badge/lumen%20-%23E74430.svg?&style=for-the-badge&logo=lumen&logoColor=white) ![](https://img.shields.io/badge/flask%20-%23000000.svg?&style=for-the-badge&logo=flask&logoColor=white) ![](https://img.shields.io/badge/graphql%20-%23E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white)                                                                                                                                                                                                                                                                                                         |
-| Frameworks (Front-end)  | ![](https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black) ![](https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white) ![](https://img.shields.io/badge/react%20native%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black) ![](https://img.shields.io/badge/electron%20-%2347848F.svg?&style=for-the-badge&logo=electron&logoColor=white) ![](https://img.shields.io/badge/svelte%20-%23FF3E00.svg?&style=for-the-badge&logo=svelte&logoColor=white) ![](https://img.shields.io/badge/sveltekit%20-%23FF3E00.svg?&style=for-the-badge&logo=svelte&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Message Queue           | ![](https://img.shields.io/badge/nats%20-%2327AAE1.svg?&style=for-the-badge&logo=natsdotio&logoColor=white) ![](https://img.shields.io/badge/kafka%20-%23231F20.svg?&style=for-the-badge&logo=apache-kafka&logoColor=white) ![](https://img.shields.io/badge/grpc%20-%23000000.svg?&style=for-the-badge) ![](https://img.shields.io/badge/rabbitmq%20-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white) ![](https://img.shields.io/badge/google%20pub%20sub%20-%23AECBFA.svg?&style=for-the-badge&logo=googlepubsub&logoColor=black) ![](https://img.shields.io/badge/amazon%20sqs%20-%23FF4F8B.svg?&style=for-the-badge&logo=amazonsqs&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Artificial Intelligence | ![](https://img.shields.io/badge/langchain%20-%231C3C3C.svg?&style=for-the-badge&logo=langchain&logoColor=white) ![](https://img.shields.io/badge/Tensorflow%20-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Version Control         | ![](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/github%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white) ![](https://img.shields.io/badge/gitlab%20-%23FC6D26.svg?&style=for-the-badge&logo=gitlab&logoColor=white) ![](https://img.shields.io/badge/bitbucket%20-%230052CC.svg?&style=for-the-badge&logo=bitbucket&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Proxy / Ingress         | ![](https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white) ![](https://img.shields.io/badge/apache%20-%23D22128.svg?&style=for-the-badge&logo=apache&logoColor=white) ![](https://img.shields.io/badge/traefik%20-%2324A1C1.svg?&style=for-the-badge&logo=traefikproxy&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Databases               | ![](https://img.shields.io/badge/postgresql%20-%234169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/sqlite%20-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white) ![](https://img.shields.io/badge/mariadb%20-%23003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white) ![](https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white) ![](https://img.shields.io/badge/redis-%23FF4438.svg?&style=for-the-badge&logo=redis&logoColor=white) ![](https://img.shields.io/badge/elasticsearch-%23005571.svg?&style=for-the-badge&logo=elasticsearch&logoColor=white) ![](https://img.shields.io/badge/cassandra-%231287B1.svg?&style=for-the-badge&logo=apachecassandra&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                    |
-| DevOps Tools            | ![](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white) ![](https://img.shields.io/badge/kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white) ![](https://img.shields.io/badge/terraform-%23844FBA.svg?&style=for-the-badge&logo=terraform&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Logging & Monitoring    | ![](https://img.shields.io/badge/new%20relic-%231CE783.svg?&style=for-the-badge&logo=newrelic&logoColor=white) ![](https://img.shields.io/badge/sentry-%23362D59.svg?&style=for-the-badge&logo=sentry&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Testing Tools           | ![](https://img.shields.io/badge/postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white) ![](https://img.shields.io/badge/k6-%237D64FF.svg?&style=for-the-badge&logo=k6&logoColor=white) ![](https://img.shields.io/badge/chrome-%234285F4.svg?&style=for-the-badge&logo=googlechrome&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+</div>
 
-[linkedin]: https://linkedin.com/in/fahmi-alfareza
-[icloud]: mailto:signer_aero0l@icloud.com
+<br/>
+
+---
+
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td valign="top" width="58%">
+
+Software Engineer based in **Yogyakarta, Indonesia**, passionate about building scalable distributed systems and empowering developers through mentoring.
+
+**Experience:**
+
+- 🏢 **Sr. Fullstack Developer** · [Bookipi](https://bookipi.com) _(current)_
+- 🏫 **Tech Lead** · [Bitlabs Academy](https://bitlabs.id)
+- 🎓 **Mentor** · [Binar Academy](https://binar.co.id) · Backend, Full-stack & Front-end across Kampus Merdeka 2–7
+- 💼 **Senior Software Engineer** · [Sekolah.mu](https://sekolah.mu)
+- 🚀 **Software Engineer** · [Tokopedia](https://tokopedia.com) _(one of SEA's largest tech companies)_
+
+</td>
+<td valign="top" width="42%">
+
+**⚡ Quick Info**
+
+```yaml
+🏢 role: Sr. Fullstack Developer @ Bookipi
+📍 location: Yogyakarta, Indonesia 🇮🇩
+🎯 focus: Backend & Full-Stack
+📚 learning: Data Engineering
+🔨 building:
+  - dzikirapp.com # Islamic productivity app
+  - catetin.ai # AI-powered finance tracker
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔭 What I'm Building
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://dzikirapp.com/favicon.ico" width="56" height="56" alt="Dzikir App" />
+
+### [Dzikir App](https://dzikirapp.com)
+
+A dhikr & Islamic productivity app — helping users build consistent daily habits and spiritual routines.
+
+[![Website](https://img.shields.io/badge/Website-dzikirapp.com-2E97F7?style=for-the-badge&logo=safari&logoColor=white)](https://dzikirapp.com)<br/>
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/id/app/dzikir-app-tasbih-digital/id1638489103)
+[![Play Store](https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.fahmialfareza.dzikirapp)
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://catetin.ai/favicon.ico" width="56" height="56" alt="Catetin AI" />
+
+### [Catetin AI](https://catetin.ai)
+
+An AI-powered financial tracker — smart categorization, insights, and reporting for personal finance.
+
+[![Website](https://img.shields.io/badge/Website-catetin.ai-70a5fd?style=for-the-badge&logo=safari&logoColor=white)](https://catetin.ai)<br/>
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/id/app/id6754167096)
+[![Play Store](https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=ai.catetin.mobile)
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>
+
+[![skills](https://skillicons.dev/icons?i=js,ts,go,python,php,java,swift,dart,bash&perline=10)](https://skillicons.dev)
+
+</td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>
+
+[![skills](https://skillicons.dev/icons?i=react,nextjs,svelte,electron&perline=10)](https://skillicons.dev)
+
+</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>
+
+[![skills](https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,laravel,flask,graphql&perline=10)](https://skillicons.dev)
+
+</td>
+</tr>
+<tr>
+<td><b>Databases</b></td>
+<td>
+
+[![skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,elasticsearch,cassandra&perline=10)](https://skillicons.dev)
+
+</td>
+</tr>
+<tr>
+<td><b>Cloud</b></td>
+<td>
+
+[![skills](https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,vercel,netlify,heroku&perline=10)](https://skillicons.dev)
+
+</td>
+</tr>
+<tr>
+<td><b>DevOps</b></td>
+<td>
+
+[![skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,nginx,linux&perline=10)](https://skillicons.dev)
+
+</td>
+</tr>
+<tr>
+<td><b>Messaging</b></td>
+<td>
+
+[![skills](https://skillicons.dev/icons?i=kafka,rabbitmq&perline=10)](https://skillicons.dev)
+
+</td>
+</tr>
+<tr>
+<td><b>AI & Monitoring</b></td>
+<td>
+
+[![skills](https://skillicons.dev/icons?i=tensorflow&perline=10)](https://skillicons.dev)
+
+</td>
+</tr>
+<tr>
+<td><b>Tools</b></td>
+<td>
+
+[![skills](https://skillicons.dev/icons?i=vscode,idea,xcode,androidstudio,jupyter,postman,git,github,gitlab,bitbucket&perline=10)](https://skillicons.dev)
+
+</td>
+</tr>
+<tr>
+<td><b>Also</b></td>
+<td>
+
+![React Native](https://img.shields.io/badge/React_Native-%2320232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Gin](https://img.shields.io/badge/Gin-%23008ECF.svg?style=for-the-badge&logo=go&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-%234945FF.svg?style=for-the-badge&logo=strapi&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230080FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-%23FF6A00.svg?style=for-the-badge&logo=alibabacloud&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-%230B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white)
+![Temporal](https://img.shields.io/badge/Temporal-%23000000.svg?style=for-the-badge&logo=temporal&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-%2324A1C1.svg?style=for-the-badge&logo=traefikproxy&logoColor=white)
+![NATS](https://img.shields.io/badge/NATS-%2327AAE1.svg?style=for-the-badge&logo=natsdotio&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-%23000000.svg?style=for-the-badge)
+![Google Pub/Sub](https://img.shields.io/badge/Google_Pub%2FSub-%23AECBFA.svg?style=for-the-badge&logo=googlepubsub&logoColor=black)
+![Amazon SQS](https://img.shields.io/badge/Amazon_SQS-%23FF4F8B.svg?style=for-the-badge&logo=amazonsqs&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![New Relic](https://img.shields.io/badge/New_Relic-%231CE783.svg?style=for-the-badge&logo=newrelic&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![lepassuntuk-web](https://github-readme-stats.vercel.app/api/pin/?username=fahmialfareza&repo=lepassuntuk-web&theme=tokyonight&hide_border=true)](https://github.com/fahmialfareza/lepassuntuk-web)
+[![malanghub](https://github-readme-stats.vercel.app/api/pin/?username=fahmialfareza&repo=malanghub&theme=tokyonight&hide_border=true)](https://github.com/fahmialfareza/malanghub)
+
+[![family-tree](https://github-readme-stats.vercel.app/api/pin/?username=fahmialfareza&repo=family-tree&theme=tokyonight&hide_border=true)](https://github.com/fahmialfareza/family-tree)
+[![ticketing-dev](https://github-readme-stats.vercel.app/api/pin/?username=fahmialfareza&repo=ticketing-dev&theme=tokyonight&hide_border=true)](https://github.com/fahmialfareza/ticketing-dev)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=fahmialfareza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="175" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmialfareza&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" alt="Top Languages" />
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=fahmialfareza&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=70a5fd)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## ⏱️ WakaTime Stats
+
+<div align="center">
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=fahmialfareza&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)](https://wakatime.com/@fahmialfareza)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=fahmialfareza&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fahmialfareza&theme=tokyo-night&hide_border=true&area=true&area_color=70a5fd&color=70a5fd&line=70a5fd&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fahmialfareza/fahmialfareza/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fahmialfareza/fahmialfareza/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/fahmialfareza/fahmialfareza/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<br/>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,50:2E97F7,100:1a1b27&height=120&section=footer)
+
+</div>
