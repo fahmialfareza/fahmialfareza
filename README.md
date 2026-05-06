@@ -261,7 +261,7 @@ Microservices-based event ticketing system built with TypeScript.
 
 <img src="https://github-readme-reza-stats.vercel.app/api?username=fahmialfareza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="175" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-reza-stats.vercel.app/api/top-langs/?username=fahmialfareza&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" alt="Top Languages" />
+<img src="https://github-readme-reza-stats.vercel.app/api/top-langs/?username=fahmialfareza&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=python,html,blade,css,less" height="175" alt="Top Languages" />
 
 <br/>
 
@@ -275,7 +275,7 @@ Microservices-based event ticketing system built with TypeScript.
 
 <div align="center">
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=fahmialfareza&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)](https://wakatime.com/@fahmialfareza)
+[![WakaTime Stats](https://github-readme-reza-stats.vercel.app/api/wakatime?username=@fahmialfareza&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)](https://wakatime.com/@fahmialfareza)
 
 </div>
 
