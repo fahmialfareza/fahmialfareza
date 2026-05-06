@@ -22,23 +22,20 @@ jobs:
           PARAMS="theme=tokyonight&hide_border=true"
           USER="fahmialfareza"
 
-          curl -f "$BASE?username=$USER&show_icons=true&$PARAMS&count_private=true&include_all_commits=true&rank_icon=github" \
-            -o assets/stats.svg || echo "⚠️ Stats fetch failed, keeping existing"
+          echo "Fetching GitHub Stats..."
+          curl -v -f "$BASE?username=$USER&show_icons=true&$PARAMS&count_private=true&include_all_commits=true&rank_icon=github" \
+            -o assets/stats.svg && echo "✅ Stats OK" || echo "⚠️ Stats fetch failed"
 
-          curl -f "$BASE/top-langs/?username=$USER&layout=compact&$PARAMS&langs_count=8" \
-            -o assets/top-langs.svg || echo "⚠️ Top langs fetch failed, keeping existing"
+          echo "Fetching Top Languages..."
+          curl -v -f "$BASE/top-langs/?username=$USER&layout=compact&$PARAMS&langs_count=8" \
+            -o assets/top-langs.svg && echo "✅ Top langs OK" || echo "⚠️ Top langs fetch failed"
 
-          curl -f "$BASE/pin/?username=$USER&repo=lepassuntuk-web&$PARAMS" \
-            -o assets/pin-lepassuntuk-web.svg || echo "⚠️ Pin fetch failed"
-
-          curl -f "$BASE/pin/?username=$USER&repo=malanghub&$PARAMS" \
-            -o assets/pin-malanghub.svg || echo "⚠️ Pin fetch failed"
-
-          curl -f "$BASE/pin/?username=$USER&repo=family-tree&$PARAMS" \
-            -o assets/pin-family-tree.svg || echo "⚠️ Pin fetch failed"
-
-          curl -f "$BASE/pin/?username=$USER&repo=ticketing-dev&$PARAMS" \
-            -o assets/pin-ticketing-dev.svg || echo "⚠️ Pin fetch failed"
+      - name: Verify SVGs
+        run: |
+          echo "=== assets/ contents ==="
+          ls -lh assets/ || echo "assets/ is empty"
+          echo "=== stats.svg preview ==="
+          head -5 assets/stats.svg 2>/dev/null || echo "stats.svg not found"
 
       - name: Commit and Push
         run: |

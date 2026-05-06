@@ -201,13 +201,56 @@ An AI-powered financial tracker — smart categorization, insights, and reportin
 ## 🚀 Featured Projects
 
 <div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
 
-[![lepassuntuk-web](assets/pin-lepassuntuk-web.svg)](https://github.com/fahmialfareza/lepassuntuk-web)
-[![malanghub](assets/pin-malanghub.svg)](https://github.com/fahmialfareza/malanghub)
+<img src="https://lepassuntuk.com/mobile/img/favicon-02.png" width="56" height="56" alt="Lepassuntuk" />
 
-[![family-tree](assets/pin-family-tree.svg)](https://github.com/fahmialfareza/family-tree)
-[![ticketing-dev](assets/pin-ticketing-dev.svg)](https://github.com/fahmialfareza/ticketing-dev)
+### [lepassuntuk-web](https://github.com/fahmialfareza/lepassuntuk-web)
 
+A web platform for digital Islamic content and resources.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fahmialfareza/lepassuntuk-web)
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://www.malanghub.com/favicon.ico" width="56" height="56" alt="Malanghub" />
+
+### [malanghub](https://github.com/fahmialfareza/malanghub)
+
+Community hub for Malang city — events, news, and local info.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fahmialfareza/malanghub)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+<h1>🌳</h1>
+
+### [family-tree](https://github.com/fahmialfareza/family-tree)
+
+An interactive digital family tree builder application.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fahmialfareza/family-tree)
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://skillicons.dev/icons?i=ts" width="56" height="56" alt="TypeScript" />
+
+### [ticketing-dev](https://github.com/fahmialfareza/ticketing-dev)
+
+Microservices-based event ticketing system built with TypeScript.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fahmialfareza/ticketing-dev)
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
