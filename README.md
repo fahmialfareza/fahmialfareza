@@ -164,7 +164,7 @@ An AI-powered financial tracker — smart categorization, insights, and reportin
 <td><b>Tools</b></td>
 <td>
 
-[![skills](https://skillicons.dev/icons?i=vscode,idea,xcode,androidstudio,jupyter,postman,git,github,gitlab,bitbucket&perline=10)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=vscode,idea,androidstudio,postman,git,github,gitlab,bitbucket&perline=10)](https://skillicons.dev)
 
 </td>
 </tr>
@@ -172,6 +172,8 @@ An AI-powered financial tracker — smart categorization, insights, and reportin
 <td><b>Also</b></td>
 <td>
 
+![Xcode](https://img.shields.io/badge/Xcode-%23147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Gin](https://img.shields.io/badge/Gin-%23008ECF.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Strapi](https://img.shields.io/badge/Strapi-%234945FF.svg?style=for-the-badge&logo=strapi&logoColor=white)
@@ -200,11 +202,11 @@ An AI-powered financial tracker — smart categorization, insights, and reportin
 
 <div align="center">
 
-[![lepassuntuk-web](https://github-readme-stats.vercel.app/api/pin/?username=fahmialfareza&repo=lepassuntuk-web&theme=tokyonight&hide_border=true)](https://github.com/fahmialfareza/lepassuntuk-web)
-[![malanghub](https://github-readme-stats.vercel.app/api/pin/?username=fahmialfareza&repo=malanghub&theme=tokyonight&hide_border=true)](https://github.com/fahmialfareza/malanghub)
+[![lepassuntuk-web](assets/pin-lepassuntuk-web.svg)](https://github.com/fahmialfareza/lepassuntuk-web)
+[![malanghub](assets/pin-malanghub.svg)](https://github.com/fahmialfareza/malanghub)
 
-[![family-tree](https://github-readme-stats.vercel.app/api/pin/?username=fahmialfareza&repo=family-tree&theme=tokyonight&hide_border=true)](https://github.com/fahmialfareza/family-tree)
-[![ticketing-dev](https://github-readme-stats.vercel.app/api/pin/?username=fahmialfareza&repo=ticketing-dev&theme=tokyonight&hide_border=true)](https://github.com/fahmialfareza/ticketing-dev)
+[![family-tree](assets/pin-family-tree.svg)](https://github.com/fahmialfareza/family-tree)
+[![ticketing-dev](assets/pin-ticketing-dev.svg)](https://github.com/fahmialfareza/ticketing-dev)
 
 </div>
 
@@ -214,9 +216,9 @@ An AI-powered financial tracker — smart categorization, insights, and reportin
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fahmialfareza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="175" alt="GitHub Stats" />
+<img src="assets/stats.svg" height="175" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmialfareza&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" alt="Top Languages" />
+<img src="assets/top-langs.svg" height="175" alt="Top Languages" />
 
 <br/>
 

@@ -1,0 +1,49 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Create assets directory
+        run: mkdir -p assets
+
+      - name: Download Stats SVGs
+        run: |
+          BASE="https://github-readme-stats.vercel.app/api"
+          PARAMS="theme=tokyonight&hide_border=true"
+          USER="fahmialfareza"
+
+          curl -f "$BASE?username=$USER&show_icons=true&$PARAMS&count_private=true&include_all_commits=true&rank_icon=github" \
+            -o assets/stats.svg || echo "⚠️ Stats fetch failed, keeping existing"
+
+          curl -f "$BASE/top-langs/?username=$USER&layout=compact&$PARAMS&langs_count=8" \
+            -o assets/top-langs.svg || echo "⚠️ Top langs fetch failed, keeping existing"
+
+          curl -f "$BASE/pin/?username=$USER&repo=lepassuntuk-web&$PARAMS" \
+            -o assets/pin-lepassuntuk-web.svg || echo "⚠️ Pin fetch failed"
+
+          curl -f "$BASE/pin/?username=$USER&repo=malanghub&$PARAMS" \
+            -o assets/pin-malanghub.svg || echo "⚠️ Pin fetch failed"
+
+          curl -f "$BASE/pin/?username=$USER&repo=family-tree&$PARAMS" \
+            -o assets/pin-family-tree.svg || echo "⚠️ Pin fetch failed"
+
+          curl -f "$BASE/pin/?username=$USER&repo=ticketing-dev&$PARAMS" \
+            -o assets/pin-ticketing-dev.svg || echo "⚠️ Pin fetch failed"
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          git diff --staged --quiet || git commit -m "chore: update github stats [skip ci]"
+          git push
