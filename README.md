@@ -259,9 +259,9 @@ Microservices-based event ticketing system built with TypeScript.
 
 <div align="center">
 
-<img src="assets/stats.svg" height="175" alt="GitHub Stats" />
+<img src="https://github-readme-reza-stats.vercel.app/api?username=fahmialfareza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="175" alt="GitHub Stats" />
 &nbsp;
-<img src="assets/top-langs.svg" height="175" alt="Top Languages" />
+<img src="https://github-readme-reza-stats.vercel.app/api/top-langs/?username=fahmialfareza&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" alt="Top Languages" />
 
 <br/>
 
