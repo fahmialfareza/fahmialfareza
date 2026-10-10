@@ -227,9 +227,9 @@ Microservices-based event ticketing system built with TypeScript.
 
 <div align="center">
 
-<img src="https://github-readme-reza-stats.vercel.app/api?username=fahmialfareza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-reza-stats.fahmi-alfareza.workers.dev/api?username=fahmialfareza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-reza-stats.vercel.app/api/top-langs/?username=fahmialfareza&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=python,html,blade,css,less" height="165" alt="Top Languages" />
+<img src="https://github-readme-reza-stats.fahmi-alfareza.workers.dev/api/top-langs/?username=fahmialfareza&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=python,html,blade,css,less" height="165" alt="Top Languages" />
 
 </div>
 
@@ -242,7 +242,7 @@ Microservices-based event ticketing system built with TypeScript.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fahmialfareza&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=70a5fd)](https://git.io/streak-stats)
 
-[![WakaTime Stats](https://github-readme-reza-stats.vercel.app/api/wakatime?username=@fahmialfareza&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)](https://wakatime.com/@fahmialfareza)
+[![WakaTime Stats](https://github-readme-reza-stats.fahmi-alfareza.workers.dev/api/wakatime?username=@fahmialfareza&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)](https://wakatime.com/@fahmialfareza)
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=fahmialfareza&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
