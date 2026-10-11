@@ -244,9 +244,9 @@ Microservices-based event ticketing system built with TypeScript.
 
 [![WakaTime Stats](https://github-readme-reza-stats.fahmi-alfareza.workers.dev/api/wakatime?username=@fahmialfareza&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)](https://wakatime.com/@fahmialfareza)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=fahmialfareza&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.fahmi-alfareza.workers.dev/?username=fahmialfareza&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fahmialfareza&theme=tokyo-night&hide_border=true&area=true&area_color=70a5fd&color=70a5fd&line=70a5fd&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.fahmi-alfareza.workers.dev/graph?username=fahmialfareza&theme=tokyo-night&hide_border=true&area=true&area_color=70a5fd&color=70a5fd&line=70a5fd&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fahmialfareza/fahmialfareza/output/github-contribution-grid-snake-dark.svg" />
