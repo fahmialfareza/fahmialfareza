@@ -46,6 +46,8 @@ building:
   - dzikirapp.com
   - catetin.ai
   - malanghub.com
+  - sakdulur.com
+  - dropumi
 ```
 
 </td>
@@ -97,6 +99,35 @@ A city companion app for Malang with local events, places, guides, and community
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/id/app/malanghub/id6769426628)<br/>
 [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.malanghub.native)<br/>
 [![GitHub](https://img.shields.io/badge/GitHub-malanghub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fahmialfareza/malanghub)
+
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%">
+
+<img src="https://sakdulur.com/apple-icon.png" width="56" height="56" alt="Sakdulur" />
+
+### [Sakdulur](https://sakdulur.com)
+
+A free, private family tree app for building multi-generation family histories together.
+
+[![Website](https://img.shields.io/badge/Website-sakdulur.com-70a5fd?style=for-the-badge&logo=safari&logoColor=white)](https://sakdulur.com)<br/>
+[![Play Store](https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.fahmialfareza.sakdulur)<br/>
+[![Microsoft Store](https://img.shields.io/badge/Microsoft_Store-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://apps.microsoft.com/detail/9N7B6TSCXZ00)<br/>
+[![GitHub](https://img.shields.io/badge/GitHub-sakdulur-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fahmialfareza/sakdulur)
+
+</td>
+<td align="center" valign="top" width="33%">
+
+<img src="https://dropumi.github.io/dropumi/apple-touch-icon.png" width="56" height="56" alt="dropumi" />
+
+### [dropumi](https://dropumi.github.io/dropumi/)
+
+Free, open-source, ultra-lightweight cross-platform local file sharing. No internet required.
+
+[![Website](https://img.shields.io/badge/Website-dropumi-2E97F7?style=for-the-badge&logo=safari&logoColor=white)](https://dropumi.github.io/dropumi/)<br/>
+[![Releases](https://img.shields.io/badge/Download-Releases-414141?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dropumi/dropumi/releases)<br/>
+[![GitHub](https://img.shields.io/badge/GitHub-dropumi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dropumi/dropumi)
 
 </td>
 </tr>
@@ -184,7 +215,7 @@ A city companion app for Malang with local events, places, guides, and community
 <div align="center">
 <table>
 <tr>
-<td align="center" valign="top" width="33%">
+<td align="center" valign="top" width="50%">
 
 <img src="https://lepassuntuk.com/mobile/img/favicon-02.png" width="56" height="56" alt="Lepassuntuk" />
 
@@ -195,18 +226,7 @@ A web platform for digital Islamic content and resources.
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fahmialfareza/lepassuntuk-web)
 
 </td>
-<td align="center" valign="top" width="33%">
-
-<h1>🌳</h1>
-
-### [family-tree](https://github.com/fahmialfareza/family-tree)
-
-An interactive digital family tree builder application.
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fahmialfareza/family-tree)
-
-</td>
-<td align="center" valign="top" width="33%">
+<td align="center" valign="top" width="50%">
 
 <img src="https://skillicons.dev/icons?i=ts" width="56" height="56" alt="TypeScript" />
 
