@@ -247,9 +247,9 @@ Microservices-based event ticketing system built with TypeScript.
 
 <div align="center">
 
-<img src="https://github-readme-reza-stats.fahmi-alfareza.workers.dev/api?username=fahmialfareza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-reza-stats.pages.dev/api?username=fahmialfareza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-reza-stats.fahmi-alfareza.workers.dev/api/top-langs/?username=fahmialfareza&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=python,html,blade,css,less" height="165" alt="Top Languages" />
+<img src="https://github-readme-reza-stats.pages.dev/api/top-langs/?username=fahmialfareza&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=python,html,blade,css,less" height="165" alt="Top Languages" />
 
 </div>
 
@@ -262,11 +262,11 @@ Microservices-based event ticketing system built with TypeScript.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fahmialfareza&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=70a5fd)](https://git.io/streak-stats)
 
-[![WakaTime Stats](https://github-readme-reza-stats.fahmi-alfareza.workers.dev/api/wakatime?username=@fahmialfareza&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)](https://wakatime.com/@fahmialfareza)
+[![WakaTime Stats](https://github-readme-reza-stats.pages.dev/api/wakatime?username=@fahmialfareza&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)](https://wakatime.com/@fahmialfareza)
 
-[![Trophy](https://github-profile-trophy.fahmi-alfareza.workers.dev/?username=fahmialfareza&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy-5nh.pages.dev/?username=fahmialfareza&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Activity Graph](https://github-readme-activity-graph.fahmi-alfareza.workers.dev/graph?username=fahmialfareza&theme=tokyo-night&hide_border=true&area=true&area_color=70a5fd&color=70a5fd&line=70a5fd&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.pages.dev/graph?username=fahmialfareza&theme=tokyo-night&hide_border=true&area=true&area_color=70a5fd&color=70a5fd&line=70a5fd&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fahmialfareza/fahmialfareza/output/github-contribution-grid-snake-dark.svg" />
